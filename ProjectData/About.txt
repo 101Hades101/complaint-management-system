@@ -1,51 +1,14 @@
-Full Archive
-Sometimes it's difficult to have a birds eye view over an entire site; here's Baeldung from 10000 feet:
-
-Expand All
-October 2022 (46)
-25: Convert String to String Array (0)
-25: Message Delivery Semantics in Streaming Platforms (0)
-25: TLS Setup in MySQL and Spring Boot Application (0)
-24: Implementing Factory Pattern With Generics in Java (0)
-24: Convert String to char in Java (0)
-22: Guide to Simple Binary Encoding (0)
-21: Java Weekly, Issue 460 (0)
-20: How to Log to the Console in Color (0)
-20: Capitalize the First Letter of a String in Java (0)
-20: Coupling in Java (0)
-20: Understanding java.lang.Thread.State: WAITING (parking) (0)
-20: Introduction to Datafaker (0)
-18: Kotlin/Spring Developer to help with brainstorming topics for a site (Remote) (Part Time) (0)
-18: How to Resolve Spring Webflux DataBufferLimitException (0)
-18: Uploading a File and JSON Data in Postman (0)
-18: Channels and Connections in RabbitMQ (0)
-17: Guide to Resilience4j With Spring Boot (0)
-14: Mocking Java InputStream Object (2)
-14: Send Email Notification From Jenkins (0)
-14: Java Weekly, Issue 459 (0)
-14: Editing Existing PDF Files in Java (4)
-13: Send Array as Part of x-www-form-urlencoded Using Postman (0)
-13: Validating URL in Java (0)
-13: Difference Between Java Enumeration and Iterator (0)
-12: Setting Time-To-Live Value for Caching (2)
-12: Java Literals (0)
-12: Infinity in Java (0)
-11: Variable Instantiation on Declaration vs. on Constructor in Java (0)
-11: Port Scanning With Java (0)
-11: Using Streams to Collect Into a TreeSet (0)
-11: Exclude a Sub-Folder When Adding a Volume to Docker (0)
-11: Comparison Between Mono's doOnNext() and doOnSuccess() (0)
-11: Redis Sentinel vs Clustering (0)
-09: Enable HTTPS in Jenkins (0)
-08: Dealing with “java.lang.OutOfMemoryError: PermGen space” Error (2)
-07: Java Weekly, Issue 458 (2)
-07: Patterns for Iterating Over Large Result Sets With Spring Data JPA (4)
-06: Java Team Lead with Spring Experience (Remote) (Part Time) (0)
-06: Difference Between Flux and Mono (0)
-06: Using HAProxy as an API Gateway for Routing and Rate Limiting (0)
-06: Initializing a Boolean Array in Java (0)
-05: Writing a List of Strings Into a Text File (0)
-05: JMeter: Latency vs. Load Time (0)
-04: Insert Array Inside an Object in MongoDB (0)
-03: A Guide to Variables in Postman (0)
-03: Set vs List in Java (2)
+Hostel complaint Management system 
+This project is our first project and for thsi we did lot of ground work for example we call our friends who are living in various hostel. We collected data from them related to their problem that they are facing in their daily-to-daily hostel life. So, to tackle that problem we planned to make this project.So, now i am going to expalin this project in sequential way -- 
+1. As of now user first enter the portal that named as hostel complaint management system
+2. Now, after that there are five different icons
+  a).Register a complaint
+  b).Status of complaint
+  c).Check complaint filed
+  d).Report
+  e).About
+3. Here in Register a complaint student can register their complaint.There are three different option first in which department you have to register a complaint , your comnplaint number that will be automatically generate and at last you need to write your complaint as brief.
+4. Now in status of complaint you can check the status of your comnplaint by entering your complaint number
+5. In check complaint filed admin can change the complaint status.It means it is under admin. Not a single student have the right to change the status.
+6. Here you can check the total complaint that are register till date and their status and complaint number also.
+7.Now finally in about it contains a short brief about the workingÂ ofÂ ourÂ project.
